@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "HackHub | Hackathon Manager",
+    "description": "From registration to the final pitch — manage teams, schedules, submissions, and evaluations on a single platform for organizers and participants."
+  },
+  "navbar": {
+    "features": "Features",
+    "forWho": "Who it's for",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "earlyAccess": "Early Access",
+    "language": "Language"
+  },
+  "hero": {
+    "titleLine1": "Run",
+    "titleHighlight": "hackathons",
+    "titleLine3": "without chaos",
+    "subtitle": "From registration to the final pitch — teams, schedule, submissions, and evaluations on one platform for organizers and participants.",
+    "ctaWaitlist": "Join the waitlist",
+    "ctaFeatures": "See features",
+    "highlight1": "squads & teams",
+    "highlight2": "solution submissions",
+    "highlight3": "live dashboard"
+  },
+  "features": {
+    "label": "features",
+    "title": "Everything you need",
+    "subtitle": "From planning to awards — a complete stack to run in-person, remote, or hybrid hackathons.",
+    "items": {
+      "teams": {
+        "title": "Team and squad management",
+        "description": "Form squads, assign leaders, and track each team's composition in real time during the event."
+      },
+      "submission": {
+        "title": "Submission and evaluation",
+        "description": "Receive solutions with repo, demo, and pitch. Judges evaluate with configurable criteria."
+      },
+      "schedule": {
+        "title": "Live schedule",
+        "description": "Publish event milestones — opening, checkpoints, final pitch — and keep everyone in sync."
+      },
+      "dashboard": {
+        "title": "Organizer dashboard",
+        "description": "Centralized view of registrations, squads, submissions, and hackathon status in one place."
+      },
+      "registration": {
+        "title": "Participant registration",
+        "description": "Signup flow, seat confirmation, and role-based access — organizer or participant."
+      },
+      "mentorship": {
+        "title": "Mentorship and communication",
+        "description": "Channel questions, announcements, and mentoring without scattered WhatsApp or Slack groups."
+      }
+    }
+  },
+  "forWho": {
+    "label": "who it's for",
+    "titleLine1": "Two sides.",
+    "titleLine2": "One platform.",
+    "organizers": {
+      "tag": "Organizers",
+      "title": "Create and manage",
+      "description": "Companies, universities, and tech communities use HackHub to set up events from scratch — registrations, squads, schedule, and judges in minutes.",
+      "bullets": {
+        "0": "Configure evaluation criteria",
+        "1": "Track submissions in real time",
+        "2": "Export results and rankings"
+      }
+    },
+    "participants": {
+      "tag": "Participants",
+      "title": "Find and join",
+      "description": "Developers and designers join the ecosystem, form squads, deliver solutions, and follow the hackathon on the platform.",
+      "bullets": {
+        "0": "Profile and participation history",
+        "1": "Guided solution submission",
+        "2": "Access to schedule and announcements"
+      }
+    }
+  },
+  "pricing": {
+    "label": "pricing",
+    "title": "Scale at your pace",
+    "subtitle": "Start free. Upgrade when your hackathon grows.",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "period": "/mo",
+        "description": "For small events and communities getting started.",
+        "features": {
+          "0": "Up to 5 squads",
+          "1": "1 active event",
+          "2": "Solution submissions",
+          "3": "Basic schedule"
+        },
+        "cta": "Start for free"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "Coming soon",
+        "period": "",
+        "description": "For recurring hackathons with more teams and judges.",
+        "features": {
+          "0": "Up to 50 squads",
+          "1": "Unlimited events",
+          "2": "Criteria-based evaluation",
+          "3": "Advanced dashboard",
+          "4": "Data export"
+        },
+        "cta": "Join waitlist"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Contact us",
+        "period": "",
+        "description": "For corporations and universities with custom needs.",
+        "features": {
+          "0": "Unlimited squads",
+          "1": "SSO and advanced roles",
+          "2": "Dedicated SLA",
+          "3": "Custom integrations",
+          "4": "Priority support"
+        },
+        "cta": "Talk to sales"
+      }
+    }
+  },
+  "faq": {
+    "label": "faq",
+    "title": "Frequently asked questions",
+    "subtitle": "Everything about HackHub",
+    "items": {
+      "free": {
+        "trigger": "Is HackHub free?",
+        "content": "Yes. The Free plan lets you run small events with up to 5 squads at no cost. Pro and Enterprise plans will launch soon for larger events."
+      },
+      "teams": {
+        "trigger": "How many teams can I have per event?",
+        "content": "On the Free plan, up to 5 squads per event. On Pro, up to 50 squads. On Enterprise, unlimited squads with custom settings."
+      },
+      "remote": {
+        "trigger": "Does it work for remote hackathons?",
+        "content": "Yes. HackHub supports in-person, remote, and hybrid events. Participants and organizers access everything on the web, from anywhere."
+      },
+      "evaluation": {
+        "trigger": "How does solution evaluation work?",
+        "content": "Organizers set criteria and weights. Judges evaluate each submission on the platform. Rankings are calculated automatically from scores."
+      },
+      "roles": {
+        "trigger": "What's the difference between organizer and participant?",
+        "content": "Organizers create events, manage squads, schedule, and judges. Participants sign up, join squads, and submit solutions."
+      },
+      "launch": {
+        "trigger": "When will HackHub launch?",
+        "content": "We're in early access. Join the waitlist to be notified when the beta is available."
+      }
+    }
+  },
+  "waitlist": {
+    "label": "early access",
+    "title": "Be the first",
+    "subtitle": "Join the waitlist and get early access to HackHub when we launch the beta.",
+    "placeholder": "you@email.com",
+    "emailAriaLabel": "Email for waitlist",
+    "submit": "Get access",
+    "success": "✓ You're on the list! We'll be in touch soon.",
+    "error": "Please enter a valid email.",
+    "disclaimer": "No spam. Product updates only."
+  },
+  "footer": {
+    "description": "The hackathon manager for organizers and participants. From registration to pitch — no spreadsheets, no chaos.",
+    "product": "Product",
+    "legal": "Legal",
+    "links": {
+      "features": "Features",
+      "forWho": "Who it's for",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy"
+    },
+    "copyright": "© {year} HackHub. All rights reserved.",
+    "earlyAccess": "Early Access →"
+  }
+}

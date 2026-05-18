@@ -50,13 +50,13 @@ export function Accordion({
         return (
           <div
             key={item.value}
-            className="border border-border rounded-lg overflow-hidden"
+            className="border-2 border-foreground rounded-none overflow-hidden shadow-brutal-sm"
           >
             <button
               onClick={() => toggleItem(item.value)}
-              className="w-full flex items-center justify-between p-4 text-left hover:bg-muted/50 transition-colors"
+              className="w-full flex items-center justify-between p-5 text-left hover:bg-secondary transition-colors"
             >
-              <span className="font-medium">{item.trigger}</span>
+              <span className="font-mono-brand text-sm uppercase tracking-wide">{item.trigger}</span>
               <ChevronDown
                 className={cn(
                   "h-4 w-4 transition-transform",

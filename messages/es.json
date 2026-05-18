@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "title": "HackHub | Gestor de Hackathons",
+    "description": "Desde la inscripción hasta el pitch final — gestiona equipos, cronogramas, envíos y evaluaciones en una sola plataforma para organizadores y participantes."
+  },
+  "navbar": {
+    "features": "Funcionalidades",
+    "forWho": "Para quién",
+    "pricing": "Planes",
+    "faq": "FAQ",
+    "earlyAccess": "Early Access",
+    "language": "Idioma"
+  },
+  "hero": {
+    "titleLine1": "Gestiona",
+    "titleHighlight": "hackathons",
+    "titleLine3": "sin caos",
+    "subtitle": "Desde la inscripción hasta el pitch final — equipos, cronograma, envíos y evaluaciones en una sola plataforma para organizadores y participantes.",
+    "ctaWaitlist": "Unirse a la lista de espera",
+    "ctaFeatures": "Ver funcionalidades",
+    "highlight1": "squads y equipos",
+    "highlight2": "envío de soluciones",
+    "highlight3": "dashboard en vivo"
+  },
+  "features": {
+    "label": "funcionalidades",
+    "title": "Todo lo que necesitas",
+    "subtitle": "De la planificación a la premiación — un stack completo para hackathons presenciales, remotos o híbridos.",
+    "items": {
+      "teams": {
+        "title": "Gestión de equipos y squads",
+        "description": "Forma squads, define líderes y sigue la composición de cada equipo en tiempo real durante el evento."
+      },
+      "submission": {
+        "title": "Envío y evaluación",
+        "description": "Recibe soluciones con repositorio, demo y pitch. Los jurados evalúan con criterios configurables."
+      },
+      "schedule": {
+        "title": "Cronograma en vivo",
+        "description": "Publica hitos del evento — apertura, checkpoints, pitch final — y mantén a todos sincronizados."
+      },
+      "dashboard": {
+        "title": "Dashboard de organizadores",
+        "description": "Vista centralizada de inscripciones, squads, envíos y estado del hackathon en un solo lugar."
+      },
+      "registration": {
+        "title": "Inscripción de participantes",
+        "description": "Flujo de registro, confirmación de plazas y control de acceso por rol — organizador o participante."
+      },
+      "mentorship": {
+        "title": "Mentoría y comunicación",
+        "description": "Canaliza dudas, avisos y mentorías sin depender de grupos dispersos en WhatsApp o Slack."
+      }
+    }
+  },
+  "forWho": {
+    "label": "para quién",
+    "titleLine1": "Dos lados.",
+    "titleLine2": "Una plataforma.",
+    "organizers": {
+      "tag": "Organizadores",
+      "title": "Crea y gestiona",
+      "description": "Empresas, universidades y comunidades tech usan HackHub para montar eventos desde cero — inscripciones, squads, cronograma y jurados en minutos.",
+      "bullets": {
+        "0": "Configura criterios de evaluación",
+        "1": "Sigue envíos en tiempo real",
+        "2": "Exporta resultados y rankings"
+      }
+    },
+    "participants": {
+      "tag": "Participantes",
+      "title": "Encuentra y participa",
+      "description": "Desarrolladores y diseñadores entran al ecosistema, forman squads, entregan soluciones y siguen el hackathon en la plataforma.",
+      "bullets": {
+        "0": "Perfil e historial de participación",
+        "1": "Envío guiado de soluciones",
+        "2": "Acceso al cronograma y avisos"
+      }
+    }
+  },
+  "pricing": {
+    "label": "planes",
+    "title": "Escala a tu ritmo",
+    "subtitle": "Empieza gratis. Evoluciona cuando tu hackathon crezca.",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "€0",
+        "period": "/mes",
+        "description": "Para eventos pequeños y comunidades en fase inicial.",
+        "features": {
+          "0": "Hasta 5 squads",
+          "1": "1 evento activo",
+          "2": "Envío de soluciones",
+          "3": "Cronograma básico"
+        },
+        "cta": "Empezar gratis"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "Próximamente",
+        "period": "",
+        "description": "Para hackathons recurrentes con más equipos y jurados.",
+        "features": {
+          "0": "Hasta 50 squads",
+          "1": "Eventos ilimitados",
+          "2": "Evaluación con criterios",
+          "3": "Dashboard avanzado",
+          "4": "Exportación de datos"
+        },
+        "cta": "Lista de espera"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Bajo consulta",
+        "period": "",
+        "description": "Para corporaciones y universidades con necesidades personalizadas.",
+        "features": {
+          "0": "Squads ilimitados",
+          "1": "SSO y roles avanzados",
+          "2": "SLA dedicado",
+          "3": "Integraciones personalizadas",
+          "4": "Soporte prioritario"
+        },
+        "cta": "Hablar con ventas"
+      }
+    }
+  },
+  "faq": {
+    "label": "faq",
+    "title": "Preguntas frecuentes",
+    "subtitle": "Todo sobre el producto HackHub",
+    "items": {
+      "free": {
+        "trigger": "¿HackHub es gratuito?",
+        "content": "Sí. El plan Free permite eventos pequeños con hasta 5 squads sin costo. Los planes Pro y Enterprise se lanzarán pronto para eventos más grandes."
+      },
+      "teams": {
+        "trigger": "¿Cuántos equipos puedo tener por evento?",
+        "content": "En el plan Free, hasta 5 squads por evento. En Pro, hasta 50 squads. En Enterprise, squads ilimitados con configuraciones personalizadas."
+      },
+      "remote": {
+        "trigger": "¿Funciona para hackathons remotos?",
+        "content": "Sí. HackHub soporta eventos presenciales, remotos e híbridos. Participantes y organizadores acceden a todo por la web, desde cualquier lugar."
+      },
+      "evaluation": {
+        "trigger": "¿Cómo funciona la evaluación de soluciones?",
+        "content": "Los organizadores definen criterios y pesos. Los jurados evalúan cada envío en la plataforma. El ranking se calcula automáticamente según las notas."
+      },
+      "roles": {
+        "trigger": "¿Cuál es la diferencia entre organizador y participante?",
+        "content": "Los organizadores crean eventos, gestionan squads, cronograma y jurados. Los participantes se inscriben, entran en squads y envían soluciones."
+      },
+      "launch": {
+        "trigger": "¿Cuándo se lanzará HackHub?",
+        "content": "Estamos en fase de early access. Únete a la lista de espera para ser notificado cuando la versión beta esté disponible."
+      }
+    }
+  },
+  "waitlist": {
+    "label": "early access",
+    "title": "Sé el primero",
+    "subtitle": "Únete a la lista de espera y recibe acceso anticipado a HackHub cuando lancemos la versión beta.",
+    "placeholder": "tu@email.com",
+    "emailAriaLabel": "Email para lista de espera",
+    "submit": "Quiero acceso",
+    "success": "✓ ¡Estás en la lista! Pronto nos pondremos en contacto.",
+    "error": "Introduce un email válido.",
+    "disclaimer": "Sin spam. Solo novedades del producto."
+  },
+  "footer": {
+    "description": "El gestor de hackathons para organizadores y participantes. De la inscripción al pitch — sin hojas de cálculo, sin caos.",
+    "product": "Producto",
+    "legal": "Legal",
+    "links": {
+      "features": "Funcionalidades",
+      "forWho": "Para quién",
+      "pricing": "Planes",
+      "faq": "FAQ",
+      "terms": "Términos de Uso",
+      "privacy": "Política de Privacidad"
+    },
+    "copyright": "© {year} HackHub. Todos los derechos reservados.",
+    "earlyAccess": "Early Access →"
+  }
+}
