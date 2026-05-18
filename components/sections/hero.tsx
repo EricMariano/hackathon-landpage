@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/button";
-
+import { LogoSvg } from "@/components/svgs/logo-svg";
 export function Hero() {
   const t = useTranslations("hero");
 
@@ -18,15 +18,13 @@ export function Hero() {
       id="top"
       className="relative min-h-screen flex items-center border-b-2 border-foreground pt-16"
     >
-      <div className="absolute top-0 right-0 w-1/3 h-full border-l-2 border-foreground hidden lg:block" />
-
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
-        <div className="grid lg:grid-cols-12 gap-12 items-end">
+        <div className="grid lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-8 space-y-8">
             <h1 className="font-display text-[clamp(3.5rem,12vw,9rem)] font-black leading-[0.9] tracking-tight uppercase">
               {t("titleLine1")}
               <br />
-              <span className="bg-brand px-2 text-foreground">
+              <span className="px-2 text-foreground">
                 {t("titleHighlight")}
               </span>
               <br />
@@ -56,18 +54,8 @@ export function Hero() {
             </div>
           </div>
 
-          <div className="lg:col-span-4 space-y-4 font-mono text-xs uppercase tracking-widest text-muted-foreground">
-            <div className="border-2 border-foreground p-4 shadow-brutal-sm bg-background">
-              <span className="text-foreground font-bold">01</span> —{" "}
-              {t("highlight1")}
-            </div>
-            <div className="border-2 border-foreground p-4 shadow-brutal-sm bg-background">
-              <span className="text-foreground font-bold">02</span> —{" "}
-              {t("highlight2")}
-            </div>
-            <div className="border-2 border-foreground p-4 bg-brand text-foreground shadow-brutal">
-              <span className="font-bold">03</span> — {t("highlight3")}
-            </div>
+          <div className="lg:col-span-4 flex justify-center">
+            <LogoSvg size="lg" iconOnly className="[&_svg]:!h-56 [&_svg]:!w-auto sm:[&_svg]:!h-72" />
           </div>
         </div>
       </div>
